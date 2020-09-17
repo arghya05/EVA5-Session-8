@@ -17,7 +17,7 @@ Random Horizontal Flip
 
 ## Results
 * Highest Train Accuracy: 97.71%
-* Reached target at 16th Epoch (85.28%%)
+* Reached target at 16th Epoch (85.28%)
 * Highest Test Accuracy: 88.71%%(38th Epoch)
 
 ## Graph
